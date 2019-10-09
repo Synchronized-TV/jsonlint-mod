@@ -25,7 +25,7 @@
     "node": ">= 0.6"
   },
   "dependencies": {
-    "JSV": "^4.0.2",
+    "JSV": "erdog/JSV",
     "chalk": "^2.4.2",
     "underscore": "^1.9.1"
   },
